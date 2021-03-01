@@ -1,4 +1,4 @@
-# 🔥Phoenix One - Flamethrower RC Car🔥
+# 🔥Phoenix One - Worlds First Autonomous Flamethrower Car🔥
 
 Code for the Phoenix One flamethrower car I made.
 
